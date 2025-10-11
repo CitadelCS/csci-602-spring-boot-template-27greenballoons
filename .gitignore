@@ -25,3 +25,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+### DB CREDS ###
+src/main/resources/application.yaml
+src/main/resources/application-test.yaml
